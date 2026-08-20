@@ -1,0 +1,9 @@
+## Reproducibility Notes
+
+Before running the experiments, update the dataset paths in the source code.
+
+The current implementation references datasets stored in a local directory:
+
+C:\Modelos
+
+Users should replace this path with the location where the datasets are stored on their own system.
